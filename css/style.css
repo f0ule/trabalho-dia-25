@@ -1,0 +1,70 @@
+body{
+    background-color: gray;
+}
+
+.cabecalho{
+    text-align: center;
+    font-family: Impact;
+    color: darkgreen;
+    font-size: 30px;
+}
+
+
+.imagem{
+    text-align: center;
+    font-size: 50px;
+    border-bottom: dashed #fff;
+  
+}
+
+.resumo{
+    text-align: justify;
+    font-size: large;
+    font-family: arial;
+    border-bottom: dashed #fff;
+    padding: 5px;
+    font-size: 23px;
+}
+
+figcaption{
+    font-size: 15px;
+    text-align:center;
+    font-style: italic;
+    color: #000;
+    margin: 1px;
+}
+
+.imagemprotagonistas{
+    text-align: center;
+}
+
+.personagens{
+    text-align: justify;
+    font-size: large;
+    font-family: arial;
+    border-bottom: 2px dashed white;
+    margin: 50px auto;
+    font-size: 23px;
+    
+}
+
+figure{
+    margin: 20px;
+}
+
+.comprar :hover{
+    color: darkolivegreen;
+    background-color: grey;
+    text-align: center;
+    font-size: 50px;
+}
+
+.comprar a{
+    font-size: 50px;
+    border: 1px solid black;
+    color: rgb(1, 46, 1);
+    padding: 5px;
+    margin: center;
+    
+}
+
